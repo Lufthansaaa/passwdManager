@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "28avSreO4qyj2vseiQKDIS/ZvFSKBifC1+YHNIiv6aT/12viqXQ9Xk4OGcoMrNH0ThrlHvT+oJpoJOst2y9BGw==",
+  "success": true,
+  "projectFilePath": "/home/jay/Documents/CODE/C#/passwdManager/passwdManager.csproj",
+  "expectedPackageFiles": [
+    "/home/jay/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

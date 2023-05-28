@@ -1,0 +1,15 @@
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/passwdManager
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/passwdManager.deps.json
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/passwdManager.runtimeconfig.json
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/passwdManager.dll
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/passwdManager.pdb
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.csproj.AssemblyReference.cache
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.AssemblyInfoInputs.cache
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.AssemblyInfo.cs
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.csproj.CoreCompileInputs.cache
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.dll
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/refint/passwdManager.dll
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.pdb
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/passwdManager.genruntimeconfig.cache
+/home/jay/Documents/CODE/C#/passwdManager/obj/Debug/net7.0/ref/passwdManager.dll

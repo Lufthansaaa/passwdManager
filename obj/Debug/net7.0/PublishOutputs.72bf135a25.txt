@@ -1,0 +1,5 @@
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/publish/passwdManager
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/publish/passwdManager.dll
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/publish/passwdManager.deps.json
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/publish/passwdManager.runtimeconfig.json
+/home/jay/Documents/CODE/C#/passwdManager/bin/Debug/net7.0/publish/passwdManager.pdb
